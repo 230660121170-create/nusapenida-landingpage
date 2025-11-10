@@ -17,7 +17,7 @@ Website ini menampilkan informasi pariwisata tentang **Nusa Penida**, salah satu
 **Program Studi:** Informatika  
 **Universitas:** Universitas Sebelas April  
 **Mata Kuliah:** Pemrograman Berbasis Web  
-**Dosen Pengampu:**Irfan Fadil, S.Kom.,M.Kom  
+**Dosen Pengampu:** Irfan Fadil, S.Kom.,M.Kom  
 
 ---
 
